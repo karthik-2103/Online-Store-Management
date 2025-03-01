@@ -6,9 +6,11 @@
 
 - Add new items
 - Delete existing items
-- Update item details
+- Stocks update
 - Manage inventory
 - View all stored details
+- Items availability
+
 
 1. Features
 
