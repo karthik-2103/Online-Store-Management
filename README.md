@@ -1,8 +1,8 @@
-Online Supermarket Store Management System
+#h2 Online Supermarket Store Management System
 
-Description
+#h3 Description
 
-This is a Python-based Online Supermarket Store Management System that uses MySQL and MySQL Connector to handle inventory management efficiently. Users can:
+#h1 This is a Python-based Online Supermarket Store Management System that uses MySQL and MySQL Connector to handle inventory management efficiently. Users can:
 
 Add new items
 
